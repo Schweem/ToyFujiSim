@@ -1,4 +1,3 @@
-# demoniac.py
 import numpy as np
 
 def xtrans_interpolate(xtrans_mosaic_4ch, xtrans_numeric, passes=2, verbose=False):
