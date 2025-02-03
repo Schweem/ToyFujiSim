@@ -1,0 +1,13 @@
+{
+    "DynamicRange": "DR200",
+    "Highlight": 0,
+    "Shadow": 0,
+    "Color": 4,
+    "Clarity": 2,
+    "GrainEffect": "Weak",
+    "GrainSize": "Small",
+    "ColorChromeEffect": "Strong",
+    "ColorChromeEffectBlue": "Strong",
+    "WhiteBalanceShift": {"Red": 1, "Blue": 0},
+    "ExposureCompensation": 0.0
+  }

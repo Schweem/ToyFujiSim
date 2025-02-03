@@ -1,0 +1,13 @@
+{
+    "DynamicRange": "DR400",
+    "Highlight": 4,
+    "Shadow": -2,
+    "Color": 4,
+    "Clarity": 1,
+    "GrainEffect": "Strong",
+    "GrainSize": "Small",
+    "ColorChromeEffect": "Strong",
+    "ColorChromeEffectBlue": "Weak",
+    "WhiteBalanceShift": {"Red": 2, "Blue": -4},
+    "ExposureCompensation": -0.7
+}

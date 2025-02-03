@@ -1,0 +1,13 @@
+{
+"DynamicRange": "DR100",
+"Highlight": 2,
+"Shadow": 2,
+"Color": -4, 
+"Clarity": 2,
+"GrainEffect": "Strong",
+"GrainSize": "Small",
+"ColorChromeEffect": "Off",
+"ColorChromeEffectBlue": "Off",
+"WhiteBalanceShift": {"Red": 0, "Blue": 0},
+"ExposureCompensation": -0.7
+}
